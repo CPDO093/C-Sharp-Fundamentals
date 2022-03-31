@@ -1,0 +1,2 @@
+D:\udemy code\ElevenFiftyProjects\Goldbadge\Csharpgold\01_typesandvariables\01_typesandvariables\01_typesandvariables\01_typesandvariables\obj\Debug\01_typesandvariables.csproj.AssemblyReference.cache
+D:\udemy code\ElevenFiftyProjects\Goldbadge\Csharpgold\01_typesandvariables\01_typesandvariables\01_typesandvariables\01_typesandvariables\obj\Debug\01_typesandvariables.csproj.CoreCompileInputs.cache

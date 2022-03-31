@@ -1,0 +1,2 @@
+D:\udemy code\ElevenFiftyProjects\Goldbadge\Csharpgold\01_typesandvariables\01_typesandvariables\01_typesandvariables\07_Inheritence\obj\Debug\07_Inheritence.csproj.AssemblyReference.cache
+D:\udemy code\ElevenFiftyProjects\Goldbadge\Csharpgold\01_typesandvariables\01_typesandvariables\01_typesandvariables\07_Inheritence\obj\Debug\07_Inheritence.csproj.CoreCompileInputs.cache
